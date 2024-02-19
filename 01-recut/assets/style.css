@@ -2341,3 +2341,7 @@ video {
 		margin-left: 0px !important;
 	}
 }
+
+img.max-w-md {
+	max-width: min(100%, 28rem) !important;
+}
